@@ -1,0 +1,11 @@
+C:\XDRIVE\IT_Projects\ELD_PLD\DEVELOPMENT\InternalWebApplication\DataRepository-AffiliateInfo\bin\Debug\netcoreapp2.1\DataRepository.deps.json
+C:\XDRIVE\IT_Projects\ELD_PLD\DEVELOPMENT\InternalWebApplication\DataRepository-AffiliateInfo\bin\Debug\netcoreapp2.1\DataRepository.runtimeconfig.json
+C:\XDRIVE\IT_Projects\ELD_PLD\DEVELOPMENT\InternalWebApplication\DataRepository-AffiliateInfo\bin\Debug\netcoreapp2.1\DataRepository.runtimeconfig.dev.json
+C:\XDRIVE\IT_Projects\ELD_PLD\DEVELOPMENT\InternalWebApplication\DataRepository-AffiliateInfo\bin\Debug\netcoreapp2.1\DataRepository.dll
+C:\XDRIVE\IT_Projects\ELD_PLD\DEVELOPMENT\InternalWebApplication\DataRepository-AffiliateInfo\bin\Debug\netcoreapp2.1\DataRepository.pdb
+C:\XDRIVE\IT_Projects\ELD_PLD\DEVELOPMENT\InternalWebApplication\DataRepository-AffiliateInfo\obj\Debug\netcoreapp2.1\DataRepository.csprojAssemblyReference.cache
+C:\XDRIVE\IT_Projects\ELD_PLD\DEVELOPMENT\InternalWebApplication\DataRepository-AffiliateInfo\obj\Debug\netcoreapp2.1\DataRepository.csproj.CoreCompileInputs.cache
+C:\XDRIVE\IT_Projects\ELD_PLD\DEVELOPMENT\InternalWebApplication\DataRepository-AffiliateInfo\obj\Debug\netcoreapp2.1\DataRepository.AssemblyInfoInputs.cache
+C:\XDRIVE\IT_Projects\ELD_PLD\DEVELOPMENT\InternalWebApplication\DataRepository-AffiliateInfo\obj\Debug\netcoreapp2.1\DataRepository.AssemblyInfo.cs
+C:\XDRIVE\IT_Projects\ELD_PLD\DEVELOPMENT\InternalWebApplication\DataRepository-AffiliateInfo\obj\Debug\netcoreapp2.1\DataRepository.dll
+C:\XDRIVE\IT_Projects\ELD_PLD\DEVELOPMENT\InternalWebApplication\DataRepository-AffiliateInfo\obj\Debug\netcoreapp2.1\DataRepository.pdb
